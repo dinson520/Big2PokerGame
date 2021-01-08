@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Big2PorkerGame.iml" filepath="$PROJECT_DIR$/Big2PorkerGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BroCode/BroCode.iml" filepath="$PROJECT_DIR$/BroCode/BroCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTicTacToe/MyTicTacToe.iml" filepath="$PROJECT_DIR$/MyTicTacToe/MyTicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+    </modules>
+  </component>
+</project>
