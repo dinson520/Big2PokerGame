@@ -1,2 +1,2 @@
-# BigBro2PorkerGame
-A Big 2 porker game develop by Java JFrame for practice.
+# Big2PorkerGame
+A Big 2 porker game developed by Java Swing for practice.
